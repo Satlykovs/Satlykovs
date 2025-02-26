@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am currently studying at HSE University
+<br>I am currently studying at HSE University, studying C++, Python, C# and Java
 
 
 # 💻 Tech Stack:
